@@ -1,0 +1,22 @@
+{
+  "name": "test-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshleyVaron96/github-test-repo.git"
+  },
+  "author": "Ashley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshleyVaron96/github-test-repo/issues"
+  },
+  "homepage": "https://github.com/AshleyVaron96/github-test-repo#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
